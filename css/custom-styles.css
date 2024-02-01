@@ -1,0 +1,11 @@
+@charset "UTF-8";
+
+.icon-feature > img {
+    width: 1em;
+}
+
+.inline-image {
+    width: 100%;
+    border-radius: 6px;
+    box-shadow: 0 0 1rem rgba(41, 41, 41, 0.25);
+}
